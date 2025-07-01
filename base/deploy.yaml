@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: nginx 
-        image: public.ecr.aws/nginx/nginx:placeholder
+        image: docker.io/benta1/test:v3
