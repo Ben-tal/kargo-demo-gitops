@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: nginx 
-        image: docker.io/benta1/test:v3
+        image: docker.io/benta1/test:v4
